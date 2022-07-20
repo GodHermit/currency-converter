@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://godhermit.github.io/currency-converter/static/css/main.eb79abe1.css",
+    "main.js": "https://godhermit.github.io/currency-converter/static/js/main.3ebdc501.js",
+    "index.html": "https://godhermit.github.io/currency-converter/index.html",
+    "main.eb79abe1.css.map": "https://godhermit.github.io/currency-converter/static/css/main.eb79abe1.css.map",
+    "main.3ebdc501.js.map": "https://godhermit.github.io/currency-converter/static/js/main.3ebdc501.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb79abe1.css",
+    "static/js/main.3ebdc501.js"
+  ]
+}
